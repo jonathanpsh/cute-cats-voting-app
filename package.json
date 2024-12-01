@@ -1,0 +1,17 @@
+{
+  "name": "cute-cats-voting-app",
+  "version": "1.0.0",
+  "description": "Web application to vote for the cutest cat, using Node.js, TypeScript, and Clean Architecture.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^22.10.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  }
+}

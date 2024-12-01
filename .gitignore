@@ -1,0 +1,25 @@
+# Ignorer le dossier node_modules
+node_modules/
+
+# Fichiers de logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Sortie du compilateur TypeScript
+dist/
+
+# Environnement local
+.env
+
+# Cache et dépendances locales
+.cache/
+.pnp/
+.pnp.js
+
+# IDE et éditeurs
+.vscode/
+.idea/
+
+# Système macOS
+.DS_Store
